@@ -1,5 +1,6 @@
 Config.json
   - contains all the configurable parameters
+    
 Data_loader.py
   - load_config(config_file='config.json')
     Loads configuration settings from the specified JSON file.
