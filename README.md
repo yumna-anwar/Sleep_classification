@@ -23,6 +23,14 @@ ppg_preprocess.py
   - SNR Calculation: Calculation of SNR to classify segments as "good" or "bad."
   - Removal of Bad Segments: Filter out low-quality segments based on SNR threshold.
   - Sensor Data Alignment: Align data from different sensors (PPG, accelerometer, gyroscope) based on Unix timestamps.
+
+train.py
+  - Data Preprocessing: Reads and preprocesses sensor data (PPG, accelerometer, gyroscope) and creates TensorFlow datasets.
+  - Model Definition: Builds a deep learning model with configurable layers, including CNN, LSTM, and dense layers.
+  - Hyperparameter Optimization: Uses Optuna to optimize hyperparameters such as learning rate, filter size, LSTM units, etc.
+  - Training: Trains the model using the preprocessed data, with options for early stopping and checkpoints.
+  - Optuna Integration: Automatically optimizes model parameters via trials and stores the best models.
+
   
  
 
