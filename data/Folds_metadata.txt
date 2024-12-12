@@ -1,0 +1,24 @@
+fold1
+train_directory_path = ['./data/5folds/fold3/','./data/5folds/fold2/','./data/5folds/fold1/']    
+val_directory_path = ['./data/5folds/fold4/']
+test_directory_path = ['./data/5folds/fold5/']
+
+fold2
+train_directory_path = ['./data/5folds/fold4/','./data/5folds/fold3/','./data/5folds/fold2/']    
+val_directory_path = ['./data/5folds/fold5/']
+test_directory_path = ['./data/5folds/fold1/']
+
+fold3
+train_directory_path = ['./data/5folds/fold5/','./data/5folds/fold4/','./data/5folds/fold3/']    
+val_directory_path = ['./data/5folds/fold1/']
+test_directory_path = ['./data/5folds/fold2/']
+
+fold4
+train_directory_path = ['./data/5folds/fold1/','./data/5folds/fold5/','./data/5folds/fold4/']    
+val_directory_path = ['./data/5folds/fold2/']
+test_directory_path = ['./data/5folds/fold3/']
+
+fold5
+train_directory_path = ['./data/5folds/fold2/','./data/5folds/fold1/','./data/5folds/fold5/']    
+val_directory_path = ['./data/5folds/fold3/']
+test_directory_path = ['./data/5folds/fold4/']

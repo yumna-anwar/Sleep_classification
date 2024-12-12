@@ -1,0 +1,31 @@
+Label Counts: Counter({1: 23397, 0: 6512})
+
+ROC AUC: 0.7682
+
+Sensitivity at different specificities:
+Sensitivity at 60% Specificity: 0.8160
+Sensitivity at 70% Specificity: 0.6922
+Sensitivity at 80% Specificity: 0.6075
+Sensitivity at 85% Specificity: 0.5431
+Sensitivity at 90% Specificity: 0.3821
+
+Optimal Threshold (Youden's J): 0.5046
+
+F1 Score: 0.8494
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       Awake       0.48      0.60      0.53      6512
+       Sleep       0.88      0.82      0.85     23397
+
+    accuracy                           0.77     29909
+   macro avg       0.68      0.71      0.69     29909
+weighted avg       0.79      0.77      0.78     29909
+
+Confusion Matrix:
+3882	2630
+4185	19212
+
+Sensitivity: 0.8211
+Specificity: 0.5961

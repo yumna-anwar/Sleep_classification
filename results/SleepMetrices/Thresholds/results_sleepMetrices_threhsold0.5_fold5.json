@@ -1,0 +1,110 @@
+{
+    "california-00000225-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 239.99933333333334,
+            "WASO (min)": 44.00066666666667,
+            "TIB (min)": 284.0,
+            "SE (%)": 84.5068075117371,
+            "SO (min)": 0.0,
+            "Awakenings": 14
+        },
+        "Predicted": {
+            "TST (min)": 269.0,
+            "WASO (min)": 15.0,
+            "TIB (min)": 284.0,
+            "SE (%)": 94.71830985915493,
+            "SO (min)": 0.0,
+            "Awakenings": 9
+        }
+    },
+    "california-00011970-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 177.002,
+            "WASO (min)": 86.498,
+            "TIB (min)": 325.0,
+            "SE (%)": 54.462153846153846,
+            "SO (min)": 61.5,
+            "Awakenings": 26
+        },
+        "Predicted": {
+            "TST (min)": 306.0,
+            "WASO (min)": 18.0,
+            "TIB (min)": 325.0,
+            "SE (%)": 94.15384615384616,
+            "SO (min)": 1.0,
+            "Awakenings": 17
+        }
+    },
+    "cleaned_adhd-KKI_006-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 425.5006666666667,
+            "WASO (min)": 17.499333333333333,
+            "TIB (min)": 458.0,
+            "SE (%)": 92.90407569141193,
+            "SO (min)": 15.0,
+            "Awakenings": 22
+        },
+        "Predicted": {
+            "TST (min)": 435.0,
+            "WASO (min)": 23.0,
+            "TIB (min)": 458.0,
+            "SE (%)": 94.97816593886463,
+            "SO (min)": 0.0,
+            "Awakenings": 19
+        }
+    },
+    "cleaned_adhd-KKI_006-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 425.4993333333333,
+            "WASO (min)": 16.500666666666667,
+            "TIB (min)": 457.0,
+            "SE (%)": 93.10707512764405,
+            "SO (min)": 15.0,
+            "Awakenings": 21
+        },
+        "Predicted": {
+            "TST (min)": 430.0,
+            "WASO (min)": 27.0,
+            "TIB (min)": 457.0,
+            "SE (%)": 94.09190371991247,
+            "SO (min)": 0.0,
+            "Awakenings": 18
+        }
+    },
+    "california-00011978-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 204.94333333333333,
+            "WASO (min)": 24.056,
+            "TIB (min)": 433.0,
+            "SE (%)": 47.33102386451116,
+            "SO (min)": 204.0006666666667,
+            "Awakenings": 15
+        },
+        "Predicted": {
+            "TST (min)": 397.0,
+            "WASO (min)": 35.0,
+            "TIB (min)": 433.0,
+            "SE (%)": 91.68591224018475,
+            "SO (min)": 1.0,
+            "Awakenings": 31
+        }
+    },
+    "california-00000234-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 125.32733333333334,
+            "WASO (min)": 174.0006666666667,
+            "TIB (min)": 371.0,
+            "SE (%)": 33.780952380952385,
+            "SO (min)": 71.672,
+            "Awakenings": 35
+        },
+        "Predicted": {
+            "TST (min)": 296.0,
+            "WASO (min)": 75.0,
+            "TIB (min)": 371.0,
+            "SE (%)": 79.78436657681941,
+            "SO (min)": 0.0,
+            "Awakenings": 24
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "KKI-008",
+  "user_id": "65e62a31c37d3d0e276903b1",
+  "session_id": "aad7881d-2669-473c-be3c-5edcb39209ff",
+  "is_bilateral": true,
+  "is_right_leg_present": true,
+  "is_left_leg_present": false,
+  "resteaze": {
+    "left": {
+      "file": "KKI-008.resteaze.left.csv",
+      "edf_offset_ms": 1442
+    },
+    "right": {
+      "file": "KKI-008.resteaze.right.csv",
+      "edf_offset_ms": 518
+    },
+    "channels": {
+      "sync": "sync"
+    }
+  },
+  "edf": {
+    "timezone": "US/Eastern",
+    "left": "KKI-008.psg.left.edf",
+    "right": "KKI-008.psg.right.edf",
+    "bilateral": "KKI-008.psg.bilateral.edf",
+    "channels": {
+      "sync_left": "Graphical Aux6",
+      "sync_right": "Graphical Aux8"
+    }
+  },
+  "scoring": {
+    "sleep_staging": "KKI-008.sleepstaging.bilateral.csv",
+    "sleep_staging_separator": ",",
+    "events": {
+      "left": "KKI-008.events.left.csv",
+      "right": "KKI-008.events.right.csv",
+      "bilateral": "KKI-008.events.bilateral.csv"
+    },
+    "valid_lm_labels": {
+      "left": false,
+      "right": true,
+      "bilateral": true
+    }
+  },
+  "metrics": {
+    "start": "2024-03-06T21:41:00",
+    "TRT": 535.9,
+    "TIB": 496.4,
+    "TST": 478.0,
+    "SE": 96.3,
+    "SO": 3.9,
+    "WASO": 14.5,
+    "LMS": 55,
+    "LMSI": 6.9,
+    "LMSA": 21,
+    "PLMS": 8,
+    "PLMSI": 1,
+    "PLMSA": 3,
+    "PLMSAI": 0.4,
+    "LMA": 31,
+    "LM": 80,
+    "LMI": 9.0,
+    "PLM": 9,
+    "PLMI": 1.0,
+    "PLMA": 1,
+    "PLMAI": 0.1
+  }
+}

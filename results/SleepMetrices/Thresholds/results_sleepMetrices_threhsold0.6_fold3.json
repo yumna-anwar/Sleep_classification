@@ -1,0 +1,146 @@
+{
+    "cleaned_adhd-KKI_003-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 531.4986666666667,
+            "WASO (min)": 6.001333333333333,
+            "TIB (min)": 542.0,
+            "SE (%)": 98.06248462484626,
+            "SO (min)": 4.5,
+            "Awakenings": 12
+        },
+        "Predicted": {
+            "TST (min)": 422.0,
+            "WASO (min)": 119.0,
+            "TIB (min)": 542.0,
+            "SE (%)": 77.85977859778598,
+            "SO (min)": 1.0,
+            "Awakenings": 55
+        }
+    },
+    "cleaned_adhd-KKI_003-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 531.4973333333334,
+            "WASO (min)": 6.002666666666667,
+            "TIB (min)": 542.0,
+            "SE (%)": 98.06223862238623,
+            "SO (min)": 4.5,
+            "Awakenings": 12
+        },
+        "Predicted": {
+            "TST (min)": 437.0,
+            "WASO (min)": 104.0,
+            "TIB (min)": 542.0,
+            "SE (%)": 80.62730627306273,
+            "SO (min)": 1.0,
+            "Awakenings": 50
+        }
+    },
+    "cleaned_adhd-KKI_005-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 392.4993333333333,
+            "WASO (min)": 43.50066666666667,
+            "TIB (min)": 476.0,
+            "SE (%)": 82.4578431372549,
+            "SO (min)": 40.0,
+            "Awakenings": 24
+        },
+        "Predicted": {
+            "TST (min)": 299.0,
+            "WASO (min)": 156.0,
+            "TIB (min)": 476.0,
+            "SE (%)": 62.81512605042017,
+            "SO (min)": 21.0,
+            "Awakenings": 50
+        }
+    },
+    "cleaned_adhd-KKI_005-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 393.49733333333336,
+            "WASO (min)": 43.50266666666666,
+            "TIB (min)": 477.0,
+            "SE (%)": 82.4941998602376,
+            "SO (min)": 40.0,
+            "Awakenings": 24
+        },
+        "Predicted": {
+            "TST (min)": 329.0,
+            "WASO (min)": 148.0,
+            "TIB (min)": 477.0,
+            "SE (%)": 68.9727463312369,
+            "SO (min)": 0.0,
+            "Awakenings": 55
+        }
+    },
+    "california-00000210-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 289.99600000000004,
+            "WASO (min)": 42.998666666666665,
+            "TIB (min)": 338.0,
+            "SE (%)": 85.79763313609469,
+            "SO (min)": 5.005333333333334,
+            "Awakenings": 17
+        },
+        "Predicted": {
+            "TST (min)": 258.0,
+            "WASO (min)": 78.0,
+            "TIB (min)": 338.0,
+            "SE (%)": 76.33136094674556,
+            "SO (min)": 2.0,
+            "Awakenings": 36
+        }
+    },
+    "cleaned_adhd-KKI_009-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 106.96000000000001,
+            "WASO (min)": 71.03999999999999,
+            "TIB (min)": 178.0,
+            "SE (%)": 60.08988764044945,
+            "SO (min)": 0.0,
+            "Awakenings": 5
+        },
+        "Predicted": {
+            "TST (min)": 97.0,
+            "WASO (min)": 81.0,
+            "TIB (min)": 178.0,
+            "SE (%)": 54.49438202247191,
+            "SO (min)": 0.0,
+            "Awakenings": 7
+        }
+    },
+    "cleaned_adhd-KKI_011-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 234.5006666666667,
+            "WASO (min)": 6.499333333333334,
+            "TIB (min)": 241.0,
+            "SE (%)": 97.30318118948826,
+            "SO (min)": 0.0,
+            "Awakenings": 9
+        },
+        "Predicted": {
+            "TST (min)": 222.0,
+            "WASO (min)": 19.0,
+            "TIB (min)": 241.0,
+            "SE (%)": 92.11618257261411,
+            "SO (min)": 0.0,
+            "Awakenings": 11
+        }
+    },
+    "california-00000227-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 235.0006666666667,
+            "WASO (min)": 109.29866666666666,
+            "TIB (min)": 354.0,
+            "SE (%)": 66.3843691148776,
+            "SO (min)": 9.700666666666667,
+            "Awakenings": 17
+        },
+        "Predicted": {
+            "TST (min)": 143.0,
+            "WASO (min)": 211.0,
+            "TIB (min)": 354.0,
+            "SE (%)": 40.3954802259887,
+            "SO (min)": 0.0,
+            "Awakenings": 44
+        }
+    }
+}

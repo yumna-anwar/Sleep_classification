@@ -1,0 +1,1340 @@
+{
+    "california-00000182-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 300.4986666666667,
+            "WASO (min)": 44.001333333333335,
+            "TIB (min)": 349.0,
+            "SE (%)": 86.10276981852914,
+            "SO (min)": 4.5,
+            "Awakenings": 18
+        },
+        "Predicted": {
+            "TST (min)": 321.0,
+            "WASO (min)": 28.0,
+            "TIB (min)": 349.0,
+            "SE (%)": 91.97707736389685,
+            "SO (min)": 0.0,
+            "Awakenings": 19
+        },
+        "Metadata": {
+            "start": null,
+            "TRT": null,
+            "TIB": null,
+            "TST": null,
+            "SE": null,
+            "SO": null,
+            "WASO": null,
+            "LMS": null,
+            "LMSI": null,
+            "LMSA": null,
+            "PLMS": null,
+            "PLMSI": null,
+            "PLMSA": null,
+            "PLMSAI": null
+        }
+    },
+    "cleaned_adhd-KKI_004-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 485.00266666666664,
+            "WASO (min)": 21.996666666666666,
+            "TIB (min)": 560.0,
+            "SE (%)": 86.60761904761904,
+            "SO (min)": 53.00066666666667,
+            "Awakenings": 29
+        },
+        "Predicted": {
+            "TST (min)": 555.0,
+            "WASO (min)": 5.0,
+            "TIB (min)": 560.0,
+            "SE (%)": 99.10714285714286,
+            "SO (min)": 0.0,
+            "Awakenings": 5
+        },
+        "Metadata": {
+            "start": "2024-01-17T21:08:30",
+            "TRT": 563,
+            "TIB": 533.3,
+            "TST": 488,
+            "SE": 91.5,
+            "SO": 23.3,
+            "WASO": 22,
+            "LMS": 33,
+            "LMSI": 4.1,
+            "LMSA": 25,
+            "PLMS": 4,
+            "PLMSI": 0.5,
+            "PLMSA": 1,
+            "PLMSAI": 0.1,
+            "LMA": 15,
+            "LM": 101,
+            "LMI": 10.8,
+            "PLM": 49,
+            "PLMI": 5.2,
+            "PLMA": 2,
+            "PLMAI": 0.2
+        }
+    },
+    "cleaned_adhd-KKI_004-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 486.0013333333334,
+            "WASO (min)": 21.998,
+            "TIB (min)": 561.0,
+            "SE (%)": 86.63125371360665,
+            "SO (min)": 53.00066666666667,
+            "Awakenings": 29
+        },
+        "Predicted": {
+            "TST (min)": 554.0,
+            "WASO (min)": 7.0,
+            "TIB (min)": 561.0,
+            "SE (%)": 98.75222816399287,
+            "SO (min)": 0.0,
+            "Awakenings": 7
+        },
+        "Metadata": {
+            "start": "2024-01-17T21:08:30",
+            "TRT": 563,
+            "TIB": 533.3,
+            "TST": 488,
+            "SE": 91.5,
+            "SO": 23.3,
+            "WASO": 22,
+            "LMS": 33,
+            "LMSI": 4.1,
+            "LMSA": 25,
+            "PLMS": 4,
+            "PLMSI": 0.5,
+            "PLMSA": 1,
+            "PLMSAI": 0.1,
+            "LMA": 15,
+            "LM": 101,
+            "LMI": 10.8,
+            "PLM": 49,
+            "PLMI": 5.2,
+            "PLMA": 2,
+            "PLMAI": 0.2
+        }
+    },
+    "california-00000192-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 70.99866666666667,
+            "WASO (min)": 12.501333333333333,
+            "TIB (min)": 178.0,
+            "SE (%)": 39.88689138576779,
+            "SO (min)": 94.5,
+            "Awakenings": 8
+        },
+        "Predicted": {
+            "TST (min)": 163.0,
+            "WASO (min)": 7.0,
+            "TIB (min)": 178.0,
+            "SE (%)": 91.57303370786516,
+            "SO (min)": 8.0,
+            "Awakenings": 6
+        },
+        "Metadata": {
+            "start": "2022-02-24T22:52:05",
+            "TRT": 387.4,
+            "TIB": 372.6,
+            "TST": 87.5,
+            "SE": 23.5,
+            "SO": 94.3,
+            "WASO": 190.8,
+            "LMS": 84,
+            "LMSI": 57.6,
+            "LMSA": 7,
+            "PLMS": 51,
+            "PLMSI": 35.0,
+            "PLMSA": 3,
+            "PLMSAI": 2.1,
+            "LMA": 29,
+            "LM": 589,
+            "LMI": 91.2,
+            "PLM": 520,
+            "PLMI": 80.5,
+            "PLMA": 26,
+            "PLMAI": 4.0
+        }
+    },
+    "california-00000202-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 191.5006666666667,
+            "WASO (min)": 106.49866666666667,
+            "TIB (min)": 300.0,
+            "SE (%)": 63.83355555555556,
+            "SO (min)": 2.0006666666666666,
+            "Awakenings": 31
+        },
+        "Predicted": {
+            "TST (min)": 278.0,
+            "WASO (min)": 22.0,
+            "TIB (min)": 300.0,
+            "SE (%)": 92.66666666666666,
+            "SO (min)": 0.0,
+            "Awakenings": 12
+        },
+        "Metadata": {
+            "start": "2022-03-09T21:45:38",
+            "TRT": 310.7,
+            "TIB": 305.7,
+            "TST": 191.5,
+            "SE": 62.6,
+            "SO": 1.8,
+            "WASO": 112.4,
+            "LMS": 12,
+            "LMSI": 3.8,
+            "LMSA": 72,
+            "PLMS": 0,
+            "PLMSI": 0,
+            "PLMSA": 0,
+            "PLMSAI": 0,
+            "LMA": 21,
+            "LM": 107,
+            "LMI": 20.7,
+            "PLM": 68,
+            "PLMI": 13.1,
+            "PLMA": 19,
+            "PLMAI": 3.7
+        }
+    },
+    "california-00000189-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 247.00133333333332,
+            "WASO (min)": 63.498666666666665,
+            "TIB (min)": 375.0,
+            "SE (%)": 65.86702222222222,
+            "SO (min)": 64.5,
+            "Awakenings": 40
+        },
+        "Predicted": {
+            "TST (min)": 369.0,
+            "WASO (min)": 6.0,
+            "TIB (min)": 375.0,
+            "SE (%)": 98.4,
+            "SO (min)": 0.0,
+            "Awakenings": 6
+        },
+        "Metadata": {
+            "start": "2022-02-18T11:00:17",
+            "TRT": 393.3,
+            "TIB": 376,
+            "TST": 248,
+            "SE": 66,
+            "SO": 64.5,
+            "WASO": 63.5,
+            "LMS": 312,
+            "LMSI": 75.5,
+            "LMSA": 33,
+            "PLMS": 275,
+            "PLMSI": 66.5,
+            "PLMSA": 28,
+            "PLMSAI": 6.8
+        }
+    },
+    "cleaned_adhd-KKI_001-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 416.49600000000004,
+            "WASO (min)": 56.004000000000005,
+            "TIB (min)": 491.0,
+            "SE (%)": 84.82606924643585,
+            "SO (min)": 18.5,
+            "Awakenings": 21
+        },
+        "Predicted": {
+            "TST (min)": 422.0,
+            "WASO (min)": 69.0,
+            "TIB (min)": 491.0,
+            "SE (%)": 85.94704684317719,
+            "SO (min)": 0.0,
+            "Awakenings": 28
+        },
+        "Metadata": {
+            "start": "2023-10-30T21:44:07",
+            "TRT": 496.5,
+            "TIB": 491.9,
+            "TST": 417.6,
+            "SE": 84.9,
+            "SO": 18.3,
+            "WASO": 56.0,
+            "LMS": 103,
+            "LMSI": 14.8,
+            "LMSA": 33,
+            "PLMS": 46,
+            "PLMSI": 6.6,
+            "PLMSA": 12,
+            "PLMSAI": 1.7,
+            "LMA": 36,
+            "LM": 311,
+            "LMI": 37.6,
+            "PLM": 252,
+            "PLMI": 30.5,
+            "PLMA": 27,
+            "PLMAI": 3.3
+        }
+    },
+    "cleaned_adhd-KKI_001-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 416.4993333333333,
+            "WASO (min)": 56.00066666666667,
+            "TIB (min)": 491.0,
+            "SE (%)": 84.82674813306177,
+            "SO (min)": 18.5,
+            "Awakenings": 21
+        },
+        "Predicted": {
+            "TST (min)": 403.0,
+            "WASO (min)": 88.0,
+            "TIB (min)": 491.0,
+            "SE (%)": 82.07739307535643,
+            "SO (min)": 0.0,
+            "Awakenings": 28
+        },
+        "Metadata": {
+            "start": "2023-10-30T21:44:07",
+            "TRT": 496.5,
+            "TIB": 491.9,
+            "TST": 417.6,
+            "SE": 84.9,
+            "SO": 18.3,
+            "WASO": 56.0,
+            "LMS": 103,
+            "LMSI": 14.8,
+            "LMSA": 33,
+            "PLMS": 46,
+            "PLMSI": 6.6,
+            "PLMSA": 12,
+            "PLMSAI": 1.7,
+            "LMA": 36,
+            "LM": 311,
+            "LMI": 37.6,
+            "PLM": 252,
+            "PLMI": 30.5,
+            "PLMA": 27,
+            "PLMAI": 3.3
+        }
+    },
+    "cleaned_adhd-KKI_002-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 497.4993333333333,
+            "WASO (min)": 23.0,
+            "TIB (min)": 522.0,
+            "SE (%)": 95.30638569604086,
+            "SO (min)": 1.5006666666666668,
+            "Awakenings": 35
+        },
+        "Predicted": {
+            "TST (min)": 479.0,
+            "WASO (min)": 43.0,
+            "TIB (min)": 522.0,
+            "SE (%)": 91.76245210727969,
+            "SO (min)": 0.0,
+            "Awakenings": 27
+        },
+        "Metadata": {
+            "start": "2023-11-29T21:11:43",
+            "TRT": 561.4,
+            "TIB": 524.2,
+            "TST": 500.1,
+            "SE": 95.4,
+            "SO": 1.1,
+            "WASO": 23,
+            "LMS": 79,
+            "LMSI": 9.5,
+            "LMSA": 31,
+            "PLMS": 17,
+            "PLMSI": 2.0,
+            "PLMSA": 8,
+            "PLMSAI": 1.0,
+            "LMA": 30,
+            "LM": 215,
+            "LMI": 23,
+            "PLM": 146,
+            "PLMI": 15.6,
+            "PLMA": 21,
+            "PLMAI": 2.2
+        }
+    },
+    "cleaned_adhd-KKI_002-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 498.502,
+            "WASO (min)": 22.998,
+            "TIB (min)": 523.0,
+            "SE (%)": 95.31586998087954,
+            "SO (min)": 1.5,
+            "Awakenings": 35
+        },
+        "Predicted": {
+            "TST (min)": 490.0,
+            "WASO (min)": 33.0,
+            "TIB (min)": 523.0,
+            "SE (%)": 93.69024856596559,
+            "SO (min)": 0.0,
+            "Awakenings": 24
+        },
+        "Metadata": {
+            "start": "2023-11-29T21:11:43",
+            "TRT": 561.4,
+            "TIB": 524.2,
+            "TST": 500.1,
+            "SE": 95.4,
+            "SO": 1.1,
+            "WASO": 23,
+            "LMS": 79,
+            "LMSI": 9.5,
+            "LMSA": 31,
+            "PLMS": 17,
+            "PLMSI": 2.0,
+            "PLMSA": 8,
+            "PLMSAI": 1.0,
+            "LMA": 30,
+            "LM": 215,
+            "LMI": 23,
+            "PLM": 146,
+            "PLMI": 15.6,
+            "PLMA": 21,
+            "PLMAI": 2.2
+        }
+    },
+    "cleaned_adhd-KKI_010-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 65.49933333333334,
+            "WASO (min)": 1.5006666666666668,
+            "TIB (min)": 86.0,
+            "SE (%)": 76.16201550387598,
+            "SO (min)": 19.0,
+            "Awakenings": 2
+        },
+        "Predicted": {
+            "TST (min)": 65.0,
+            "WASO (min)": 2.0,
+            "TIB (min)": 86.0,
+            "SE (%)": 75.5813953488372,
+            "SO (min)": 19.0,
+            "Awakenings": 2
+        },
+        "Metadata": {
+            "start": "2024-05-02T22:10:24-05:00",
+            "TRT": 498.5,
+            "TIB": 469.9,
+            "TST": 428.5,
+            "SE": 91.2,
+            "SO": 19,
+            "WASO": 22.4,
+            "LMS": 57,
+            "LMSI": 8.0,
+            "LMSA": 10,
+            "PLMS": 10,
+            "PLMSI": 1.4,
+            "PLMSA": 0,
+            "PLMSAI": 0
+        }
+    },
+    "cleaned_adhd-KKI_007-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 521.5,
+            "WASO (min)": 39.99933333333333,
+            "TIB (min)": 564.0,
+            "SE (%)": 92.4645390070922,
+            "SO (min)": 2.5006666666666666,
+            "Awakenings": 19
+        },
+        "Predicted": {
+            "TST (min)": 504.0,
+            "WASO (min)": 57.0,
+            "TIB (min)": 564.0,
+            "SE (%)": 89.36170212765957,
+            "SO (min)": 3.0,
+            "Awakenings": 36
+        },
+        "Metadata": {
+            "start": "2024-02-15T20:37:10",
+            "TRT": 659.2,
+            "TIB": 632.4,
+            "TST": 579,
+            "SE": 91.6,
+            "SO": 2.3,
+            "WASO": 51.1,
+            "LMS": 127,
+            "LMSI": 13.2,
+            "LMSA": 53,
+            "PLMS": 19,
+            "PLMSI": 2.0,
+            "PLMSA": 4,
+            "PLMSAI": 0.4,
+            "LMA": null,
+            "LM": null,
+            "LMI": null,
+            "PLM": null,
+            "PLMI": null,
+            "PLMA": null,
+            "PLMAI": null
+        }
+    },
+    "california-00011946-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 409.55933333333337,
+            "WASO (min)": 31.5,
+            "TIB (min)": 453.0,
+            "SE (%)": 90.4104488594555,
+            "SO (min)": 11.940666666666667,
+            "Awakenings": 15
+        },
+        "Predicted": {
+            "TST (min)": 422.0,
+            "WASO (min)": 30.0,
+            "TIB (min)": 453.0,
+            "SE (%)": 93.15673289183223,
+            "SO (min)": 1.0,
+            "Awakenings": 18
+        },
+        "Metadata": {
+            "start": "2022-02-02T21:38:39",
+            "TRT": 458.6,
+            "TIB": 453.5,
+            "TST": 410.2,
+            "SE": 90.5,
+            "SO": 11.8,
+            "WASO": 31.5,
+            "LMS": 34,
+            "LMSI": 5,
+            "LMSA": 8,
+            "PLMS": 0,
+            "PLMSI": 0,
+            "PLMSA": 0,
+            "PLMSAI": 0,
+            "LMA": 28,
+            "LM": 73,
+            "LMI": 9.6,
+            "PLM": 26,
+            "PLMI": 3.4,
+            "PLMA": 9,
+            "PLMAI": 1.2
+        }
+    },
+    "california-00011947-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 305.29266666666666,
+            "WASO (min)": 17.50133333333333,
+            "TIB (min)": 434.0,
+            "SE (%)": 70.34393241167434,
+            "SO (min)": 111.206,
+            "Awakenings": 28
+        },
+        "Predicted": {
+            "TST (min)": 408.0,
+            "WASO (min)": 26.0,
+            "TIB (min)": 434.0,
+            "SE (%)": 94.00921658986175,
+            "SO (min)": 0.0,
+            "Awakenings": 17
+        },
+        "Metadata": {
+            "start": "2022-02-03T21:36:05",
+            "TRT": 448.5,
+            "TIB": 444.2,
+            "TST": 305.4,
+            "SE": 68.8,
+            "SO": 121.3,
+            "WASO": 17.5,
+            "LMS": 42,
+            "LMSI": 8.3,
+            "LMSA": 0,
+            "PLMS": 5,
+            "PLMSI": 1,
+            "PLMSA": 0,
+            "PLMSAI": 0,
+            "LMA": 35,
+            "LM": 110,
+            "LMI": 14.7,
+            "PLM": 31,
+            "PLMI": 4.1,
+            "PLMA": 11,
+            "PLMAI": 1.5
+        }
+    },
+    "cleaned_adhd-KKI_003-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 531.4986666666667,
+            "WASO (min)": 6.001333333333333,
+            "TIB (min)": 542.0,
+            "SE (%)": 98.06248462484626,
+            "SO (min)": 4.5,
+            "Awakenings": 12
+        },
+        "Predicted": {
+            "TST (min)": 540.0,
+            "WASO (min)": 2.0,
+            "TIB (min)": 542.0,
+            "SE (%)": 99.63099630996311,
+            "SO (min)": 0.0,
+            "Awakenings": 2
+        },
+        "Metadata": {
+            "start": "2023-12-18T20:59:19",
+            "TRT": 569.4,
+            "TIB": 540.9,
+            "TST": 533.3,
+            "SE": 98.6,
+            "SO": 1.6,
+            "WASO": 6.0,
+            "LMS": 109,
+            "LMSI": 12.3,
+            "LMSA": 27,
+            "PLMS": 28,
+            "PLMSI": 3.2,
+            "PLMSA": 3,
+            "PLMSAI": 0.3,
+            "LMA": 12,
+            "LM": 190,
+            "LMI": 20,
+            "PLM": 105,
+            "PLMI": 11.1,
+            "PLMA": 6,
+            "PLMAI": 0.6
+        }
+    },
+    "cleaned_adhd-KKI_003-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 531.4973333333334,
+            "WASO (min)": 6.002666666666667,
+            "TIB (min)": 542.0,
+            "SE (%)": 98.06223862238623,
+            "SO (min)": 4.5,
+            "Awakenings": 12
+        },
+        "Predicted": {
+            "TST (min)": 540.0,
+            "WASO (min)": 2.0,
+            "TIB (min)": 542.0,
+            "SE (%)": 99.63099630996311,
+            "SO (min)": 0.0,
+            "Awakenings": 2
+        },
+        "Metadata": {
+            "start": "2023-12-18T20:59:19",
+            "TRT": 569.4,
+            "TIB": 540.9,
+            "TST": 533.3,
+            "SE": 98.6,
+            "SO": 1.6,
+            "WASO": 6.0,
+            "LMS": 109,
+            "LMSI": 12.3,
+            "LMSA": 27,
+            "PLMS": 28,
+            "PLMSI": 3.2,
+            "PLMSA": 3,
+            "PLMSAI": 0.3,
+            "LMA": 12,
+            "LM": 190,
+            "LMI": 20,
+            "PLM": 105,
+            "PLMI": 11.1,
+            "PLMA": 6,
+            "PLMAI": 0.6
+        }
+    },
+    "cleaned_adhd-KKI_005-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 392.4993333333333,
+            "WASO (min)": 43.50066666666667,
+            "TIB (min)": 476.0,
+            "SE (%)": 82.4578431372549,
+            "SO (min)": 40.0,
+            "Awakenings": 24
+        },
+        "Predicted": {
+            "TST (min)": 465.0,
+            "WASO (min)": 11.0,
+            "TIB (min)": 476.0,
+            "SE (%)": 97.68907563025209,
+            "SO (min)": 0.0,
+            "Awakenings": 9
+        },
+        "Metadata": {
+            "start": "2024-01-22T21:33:11",
+            "TRT": 538,
+            "TIB": 477.5,
+            "TST": 394.1,
+            "SE": 82.5,
+            "SO": 39.9,
+            "WASO": 43.5,
+            "LMS": 127,
+            "LMSI": 19.3,
+            "LMSA": 13,
+            "PLMS": 33,
+            "PLMSI": 5.0,
+            "PLMSA": 5,
+            "PLMSAI": 0.8,
+            "LMA": 35,
+            "LM": 360,
+            "LMI": 40.1,
+            "PLM": 158,
+            "PLMI": 17.6,
+            "PLMA": 19,
+            "PLMAI": 2.1
+        }
+    },
+    "cleaned_adhd-KKI_005-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 393.49733333333336,
+            "WASO (min)": 43.50266666666666,
+            "TIB (min)": 477.0,
+            "SE (%)": 82.4941998602376,
+            "SO (min)": 40.0,
+            "Awakenings": 24
+        },
+        "Predicted": {
+            "TST (min)": 469.0,
+            "WASO (min)": 8.0,
+            "TIB (min)": 477.0,
+            "SE (%)": 98.32285115303984,
+            "SO (min)": 0.0,
+            "Awakenings": 8
+        },
+        "Metadata": {
+            "start": "2024-01-22T21:33:11",
+            "TRT": 538,
+            "TIB": 477.5,
+            "TST": 394.1,
+            "SE": 82.5,
+            "SO": 39.9,
+            "WASO": 43.5,
+            "LMS": 127,
+            "LMSI": 19.3,
+            "LMSA": 13,
+            "PLMS": 33,
+            "PLMSI": 5.0,
+            "PLMSA": 5,
+            "PLMSAI": 0.8,
+            "LMA": 35,
+            "LM": 360,
+            "LMI": 40.1,
+            "PLM": 158,
+            "PLMI": 17.6,
+            "PLMA": 19,
+            "PLMAI": 2.1
+        }
+    },
+    "california-00000210-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 289.99600000000004,
+            "WASO (min)": 42.998666666666665,
+            "TIB (min)": 338.0,
+            "SE (%)": 85.79763313609469,
+            "SO (min)": 5.005333333333334,
+            "Awakenings": 17
+        },
+        "Predicted": {
+            "TST (min)": 338.0,
+            "WASO (min)": 0.0,
+            "TIB (min)": 338.0,
+            "SE (%)": 100.0,
+            "SO (min)": 0.0,
+            "Awakenings": 0
+        },
+        "Metadata": {
+            "start": "2102-03-09T21:45:38",
+            "TRT": 310.7,
+            "TIB": 305.7,
+            "TST": 191.5,
+            "SE": 62.6,
+            "SO": 1.8,
+            "WASO": 112.4,
+            "LMS": 12,
+            "LMSI": 3.8,
+            "LMSA": 72,
+            "PLMS": 0,
+            "PLMSI": 0,
+            "PLMSA": 0,
+            "PLMSAI": 0
+        }
+    },
+    "cleaned_adhd-KKI_009-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 106.96000000000001,
+            "WASO (min)": 71.03999999999999,
+            "TIB (min)": 178.0,
+            "SE (%)": 60.08988764044945,
+            "SO (min)": 0.0,
+            "Awakenings": 5
+        },
+        "Predicted": {
+            "TST (min)": 169.0,
+            "WASO (min)": 9.0,
+            "TIB (min)": 178.0,
+            "SE (%)": 94.9438202247191,
+            "SO (min)": 0.0,
+            "Awakenings": 6
+        },
+        "Metadata": {
+            "start": "2024-03-20T21:06:50",
+            "TRT": 539,
+            "TIB": 486.8,
+            "TST": 357.5,
+            "SE": 73.4,
+            "SO": 40.3,
+            "WASO": 89,
+            "LMS": 32,
+            "LMSI": 5.4,
+            "LMSA": 16,
+            "PLMS": 4,
+            "PLMSI": 0.7,
+            "PLMSA": 3,
+            "PLMSAI": 0.5,
+            "LMA": 36,
+            "LM": 560,
+            "LMI": 62.3,
+            "PLM": 455,
+            "PLMI": 50.6,
+            "PLMA": 26,
+            "PLMAI": 2.9
+        }
+    },
+    "cleaned_adhd-KKI_011-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 234.5006666666667,
+            "WASO (min)": 6.499333333333334,
+            "TIB (min)": 241.0,
+            "SE (%)": 97.30318118948826,
+            "SO (min)": 0.0,
+            "Awakenings": 9
+        },
+        "Predicted": {
+            "TST (min)": 240.0,
+            "WASO (min)": 1.0,
+            "TIB (min)": 241.0,
+            "SE (%)": 99.5850622406639,
+            "SO (min)": 0.0,
+            "Awakenings": 1
+        },
+        "Metadata": {
+            "start": "2024-05-08T21:45:41-05:00",
+            "TRT": 517.2,
+            "TIB": 504.5,
+            "TST": 466.8,
+            "SE": 92.5,
+            "SO": 6.2,
+            "WASO": 31.5,
+            "LMS": 12,
+            "LMSI": 1.5,
+            "LMSA": 0,
+            "PLMS": 4,
+            "PLMSI": 0.5,
+            "PLMSA": 0,
+            "PLMSAI": 0
+        }
+    },
+    "california-00000227-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 235.0006666666667,
+            "WASO (min)": 109.29866666666666,
+            "TIB (min)": 354.0,
+            "SE (%)": 66.3843691148776,
+            "SO (min)": 9.700666666666667,
+            "Awakenings": 17
+        },
+        "Predicted": {
+            "TST (min)": 346.0,
+            "WASO (min)": 8.0,
+            "TIB (min)": 354.0,
+            "SE (%)": 97.74011299435028,
+            "SO (min)": 0.0,
+            "Awakenings": 7
+        },
+        "Metadata": {
+            "start": "2022-04-20T22:56:44",
+            "TRT": 360.6,
+            "TIB": 354.8,
+            "TST": 235.0,
+            "SE": 66.2,
+            "SO": 9.8,
+            "WASO": 110.0,
+            "LMS": 85,
+            "LMSI": 21.7,
+            "LMSA": 13,
+            "PLMS": 48,
+            "PLMSI": 12.3,
+            "PLMSA": 4,
+            "PLMSAI": 1.0,
+            "LMA": 111,
+            "LM": 346,
+            "LMI": 57.6,
+            "PLM": 278,
+            "PLMI": 46.3,
+            "PLMA": 105,
+            "PLMAI": 17.5
+        }
+    },
+    "california-00011955-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 352.4993333333333,
+            "WASO (min)": 9.000666666666666,
+            "TIB (min)": 424.0,
+            "SE (%)": 83.13663522012578,
+            "SO (min)": 62.5,
+            "Awakenings": 9
+        },
+        "Predicted": {
+            "TST (min)": 321.0,
+            "WASO (min)": 102.0,
+            "TIB (min)": 424.0,
+            "SE (%)": 75.70754716981132,
+            "SO (min)": 1.0,
+            "Awakenings": 50
+        },
+        "Metadata": {
+            "start": "2022-02-17T21:56:45",
+            "TRT": 430.2,
+            "TIB": 424.3,
+            "TST": 352.8,
+            "SE": 83.1,
+            "SO": 62.5,
+            "WASO": 9.0,
+            "LMS": 45,
+            "LMSI": 7.7,
+            "LMSA": 2,
+            "PLMS": 0,
+            "PLMSI": 0,
+            "PLMSA": 0,
+            "PLMSAI": 0,
+            "LMA": 25,
+            "LM": 114,
+            "LMI": 15.9,
+            "PLM": 62,
+            "PLMI": 8.6,
+            "PLMA": 13,
+            "PLMAI": 1.8
+        }
+    },
+    "cleaned_adhd-KKI_008-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 473.434,
+            "WASO (min)": 20.565333333333335,
+            "TIB (min)": 498.0,
+            "SE (%)": 95.06706827309237,
+            "SO (min)": 4.000666666666667,
+            "Awakenings": 24
+        },
+        "Predicted": {
+            "TST (min)": 449.0,
+            "WASO (min)": 48.0,
+            "TIB (min)": 498.0,
+            "SE (%)": 90.16064257028113,
+            "SO (min)": 1.0,
+            "Awakenings": 39
+        },
+        "Metadata": {
+            "start": "2024-03-06T21:41:00",
+            "TRT": 535.9,
+            "TIB": 496.4,
+            "TST": 478.0,
+            "SE": 96.3,
+            "SO": 3.9,
+            "WASO": 14.5,
+            "LMS": 55,
+            "LMSI": 6.9,
+            "LMSA": 21,
+            "PLMS": 8,
+            "PLMSI": 1,
+            "PLMSA": 3,
+            "PLMSAI": 0.4,
+            "LMA": 31,
+            "LM": 80,
+            "LMI": 9.0,
+            "PLM": 9,
+            "PLMI": 1.0,
+            "PLMA": 1,
+            "PLMAI": 0.1
+        }
+    },
+    "california-00000235-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 43.99933333333333,
+            "WASO (min)": 44.57933333333334,
+            "TIB (min)": 185.0,
+            "SE (%)": 23.78342342342342,
+            "SO (min)": 96.42133333333332,
+            "Awakenings": 12
+        },
+        "Predicted": {
+            "TST (min)": 89.0,
+            "WASO (min)": 94.0,
+            "TIB (min)": 185.0,
+            "SE (%)": 48.10810810810811,
+            "SO (min)": 2.0,
+            "Awakenings": 33
+        },
+        "Metadata": {
+            "start": null,
+            "TRT": null,
+            "TIB": null,
+            "TST": null,
+            "SE": null,
+            "SO": null,
+            "WASO": null,
+            "LMS": null,
+            "LMSI": null,
+            "LMSA": null,
+            "PLMS": null,
+            "PLMSI": null,
+            "PLMSA": null,
+            "PLMSAI": null
+        }
+    },
+    "california-00000183-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 301.00333333333333,
+            "WASO (min)": 64.99666666666667,
+            "TIB (min)": 381.0,
+            "SE (%)": 79.00349956255468,
+            "SO (min)": 15.0,
+            "Awakenings": 36
+        },
+        "Predicted": {
+            "TST (min)": 309.0,
+            "WASO (min)": 72.0,
+            "TIB (min)": 381.0,
+            "SE (%)": 81.10236220472441,
+            "SO (min)": 0.0,
+            "Awakenings": 44
+        },
+        "Metadata": {
+            "start": "2022-02-15T22:08:23",
+            "TRT": 389.4,
+            "TIB": 380.7,
+            "TST": 301,
+            "SE": 79.1,
+            "SO": 14.8,
+            "WASO": 64.9,
+            "LMS": 266,
+            "LMSI": 53,
+            "LMSA": 31,
+            "PLMS": 203,
+            "PLMSI": 40.5,
+            "PLMSA": 16,
+            "PLMSAI": 3.2,
+            "LMA": 82,
+            "LM": 431,
+            "LMI": 66.4,
+            "PLM": 362,
+            "PLMI": 55.8,
+            "PLMA": 75,
+            "PLMAI": 11.6
+        }
+    },
+    "california-00000201-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 289.0013333333334,
+            "WASO (min)": 48.998666666666665,
+            "TIB (min)": 357.0,
+            "SE (%)": 80.9527544351074,
+            "SO (min)": 19.0,
+            "Awakenings": 21
+        },
+        "Predicted": {
+            "TST (min)": 302.0,
+            "WASO (min)": 51.0,
+            "TIB (min)": 357.0,
+            "SE (%)": 84.593837535014,
+            "SO (min)": 4.0,
+            "Awakenings": 33
+        },
+        "Metadata": {
+            "start": "2022-03-09T21:45:38",
+            "TRT": 310.7,
+            "TIB": 305.7,
+            "TST": 191.5,
+            "SE": 62.6,
+            "SO": 1.8,
+            "WASO": 112.4,
+            "LMS": 12,
+            "LMSI": 3.8,
+            "LMSA": 72,
+            "PLMS": 0,
+            "PLMSI": 0,
+            "PLMSA": 0,
+            "PLMSAI": 0
+        }
+    },
+    "california-00000187-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 304.4933333333334,
+            "WASO (min)": 48.506,
+            "TIB (min)": 356.0,
+            "SE (%)": 85.53183520599252,
+            "SO (min)": 3.0006666666666666,
+            "Awakenings": 33
+        },
+        "Predicted": {
+            "TST (min)": 189.0,
+            "WASO (min)": 159.0,
+            "TIB (min)": 356.0,
+            "SE (%)": 53.08988764044944,
+            "SO (min)": 8.0,
+            "Awakenings": 33
+        },
+        "Metadata": {
+            "start": "2022-02-16T22:45:42",
+            "TRT": 363.3,
+            "TIB": 355.5,
+            "TST": 304.4,
+            "SE": 85.6,
+            "SO": 2.6,
+            "WASO": 48.5,
+            "LMS": 259,
+            "LMSI": 51.1,
+            "LMSA": 30,
+            "PLMS": 212,
+            "PLMSI": 41.8,
+            "PLMSA": 22,
+            "PLMSAI": 4.3,
+            "LMA": 80,
+            "LM": 378,
+            "LMI": 62.4,
+            "PLM": 307,
+            "PLMI": 50.7,
+            "PLMA": 68,
+            "PLMAI": 11.2
+        }
+    },
+    "california-00000225-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 239.99933333333334,
+            "WASO (min)": 44.00066666666667,
+            "TIB (min)": 284.0,
+            "SE (%)": 84.5068075117371,
+            "SO (min)": 0.0,
+            "Awakenings": 14
+        },
+        "Predicted": {
+            "TST (min)": 269.0,
+            "WASO (min)": 15.0,
+            "TIB (min)": 284.0,
+            "SE (%)": 94.71830985915493,
+            "SO (min)": 0.0,
+            "Awakenings": 9
+        },
+        "Metadata": {
+            "start": "2022-04-08T23:00:45",
+            "TRT": 341.8,
+            "TIB": 334.1,
+            "TST": 268.2,
+            "SE": 80.3,
+            "SO": 17.4,
+            "WASO": 48.5,
+            "LMS": 77,
+            "LMSI": 17.2,
+            "LMSA": 28,
+            "PLMS": 37,
+            "PLMSI": 8.3,
+            "PLMSA": 19,
+            "PLMSAI": 4.3,
+            "LMA": 45,
+            "LM": 125,
+            "LMI": 21.9,
+            "PLM": 90,
+            "PLMI": 15.8,
+            "PLMA": 37,
+            "PLMAI": 6.5
+        }
+    },
+    "california-00011970-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 177.002,
+            "WASO (min)": 86.498,
+            "TIB (min)": 325.0,
+            "SE (%)": 54.462153846153846,
+            "SO (min)": 61.5,
+            "Awakenings": 26
+        },
+        "Predicted": {
+            "TST (min)": 306.0,
+            "WASO (min)": 18.0,
+            "TIB (min)": 325.0,
+            "SE (%)": 94.15384615384616,
+            "SO (min)": 1.0,
+            "Awakenings": 17
+        },
+        "Metadata": {
+            "start": "2022-03-12T21:31:56",
+            "TRT": 386.6,
+            "TIB": 385.2,
+            "TST": 178.0,
+            "SE": 46.2,
+            "SO": 61.3,
+            "WASO": 145.9,
+            "LMS": 57,
+            "LMSI": 19.2,
+            "LMSA": 7,
+            "PLMS": 13,
+            "PLMSI": 4.4,
+            "PLMSA": 1,
+            "PLMSAI": 0.3,
+            "LMA": 120,
+            "LM": 551,
+            "LMI": 84.9,
+            "PLM": 497,
+            "PLMI": 76.5,
+            "PLMA": 128,
+            "PLMAI": 19.7
+        }
+    },
+    "cleaned_adhd-KKI_006-left-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 425.5006666666667,
+            "WASO (min)": 17.499333333333333,
+            "TIB (min)": 458.0,
+            "SE (%)": 92.90407569141193,
+            "SO (min)": 15.0,
+            "Awakenings": 22
+        },
+        "Predicted": {
+            "TST (min)": 435.0,
+            "WASO (min)": 23.0,
+            "TIB (min)": 458.0,
+            "SE (%)": 94.97816593886463,
+            "SO (min)": 0.0,
+            "Awakenings": 19
+        },
+        "Metadata": {
+            "start": "2024-01-31T21:23:54",
+            "TRT": 486.9,
+            "TIB": 456.2,
+            "TST": 425.5,
+            "SE": 93.3,
+            "SO": 12.6,
+            "WASO": 18.1,
+            "LMS": 34,
+            "LMSI": 4.8,
+            "LMSA": 17,
+            "PLMS": 5,
+            "PLMSI": 0.7,
+            "PLMSA": 2,
+            "PLMSAI": 0.3,
+            "LMA": null,
+            "LM": null,
+            "LMI": null,
+            "PLM": null,
+            "PLMI": null,
+            "PLMA": null,
+            "PLMAI": null
+        }
+    },
+    "cleaned_adhd-KKI_006-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 425.4993333333333,
+            "WASO (min)": 16.500666666666667,
+            "TIB (min)": 457.0,
+            "SE (%)": 93.10707512764405,
+            "SO (min)": 15.0,
+            "Awakenings": 21
+        },
+        "Predicted": {
+            "TST (min)": 430.0,
+            "WASO (min)": 27.0,
+            "TIB (min)": 457.0,
+            "SE (%)": 94.09190371991247,
+            "SO (min)": 0.0,
+            "Awakenings": 18
+        },
+        "Metadata": {
+            "start": "2024-01-31T21:23:54",
+            "TRT": 486.9,
+            "TIB": 456.2,
+            "TST": 425.5,
+            "SE": 93.3,
+            "SO": 12.6,
+            "WASO": 18.1,
+            "LMS": 34,
+            "LMSI": 4.8,
+            "LMSA": 17,
+            "PLMS": 5,
+            "PLMSI": 0.7,
+            "PLMSA": 2,
+            "PLMSAI": 0.3,
+            "LMA": null,
+            "LM": null,
+            "LMI": null,
+            "PLM": null,
+            "PLMI": null,
+            "PLMA": null,
+            "PLMAI": null
+        }
+    },
+    "california-00011978-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 204.94333333333333,
+            "WASO (min)": 24.056,
+            "TIB (min)": 433.0,
+            "SE (%)": 47.33102386451116,
+            "SO (min)": 204.0006666666667,
+            "Awakenings": 15
+        },
+        "Predicted": {
+            "TST (min)": 397.0,
+            "WASO (min)": 35.0,
+            "TIB (min)": 433.0,
+            "SE (%)": 91.68591224018475,
+            "SO (min)": 1.0,
+            "Awakenings": 31
+        },
+        "Metadata": {
+            "start": "2022-03-23T21:55:33",
+            "TRT": 449.6,
+            "TIB": 445.0,
+            "TST": 199.4,
+            "SE": 44.8,
+            "SO": 18.6,
+            "WASO": 227,
+            "LMS": 134,
+            "LMSI": 40.3,
+            "LMSA": 31,
+            "PLMS": 94,
+            "PLMSI": 28.3,
+            "PLMSA": 13,
+            "PLMSAI": 3.9,
+            "LMA": 124,
+            "LM": 652,
+            "LMI": 87.0,
+            "PLM": 589,
+            "PLMI": 78.6,
+            "PLMA": 114,
+            "PLMAI": 15.2
+        }
+    },
+    "california-00000234-right-sync.csv": {
+        "Ground Truth": {
+            "TST (min)": 125.32733333333334,
+            "WASO (min)": 174.0006666666667,
+            "TIB (min)": 371.0,
+            "SE (%)": 33.780952380952385,
+            "SO (min)": 71.672,
+            "Awakenings": 35
+        },
+        "Predicted": {
+            "TST (min)": 296.0,
+            "WASO (min)": 75.0,
+            "TIB (min)": 371.0,
+            "SE (%)": 79.78436657681941,
+            "SO (min)": 0.0,
+            "Awakenings": 24
+        },
+        "Metadata": {
+            "start": null,
+            "TRT": null,
+            "TIB": null,
+            "TST": null,
+            "SE": null,
+            "SO": null,
+            "WASO": null,
+            "LMS": null,
+            "LMSI": null,
+            "LMSA": null,
+            "PLMS": null,
+            "PLMSI": null,
+            "PLMSA": null,
+            "PLMSAI": null
+        }
+    }
+}

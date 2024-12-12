@@ -1,0 +1,68 @@
+{
+  "name": "California-0001195",
+  "user_id": "5f996c65cceabc1dd6f3ae2c",
+  "session_id": "e6d0f843-1041-4af5-a300-3ade12a93292",
+  "is_bilateral": false,
+  "is_right_leg_present": true,
+  "is_left_leg_present": false,
+  "resteaze": {
+    "left": {
+      "file": null,
+      "edf_offset_ms": null
+    },
+    "right": {
+      "file": "5f996c65cceabc1dd6f3ae2c.e6d0f843-1041-4af5-a300-3ade12a93292.RIGHT.csv",
+      "edf_offset_ms": 0
+    },
+    "channels": {
+      "sync": null
+    }
+  },
+  "edf": {
+    "timezone": "US/Pacific",
+    "left": "00011955-A5BS21498[EXPORT]_LeftOnly.edf",
+    "right": "00011955-A5BS21498[EXPORT]_RightOnly.edf",
+    "bilateral": "00011955-A5BS21498[EXPORT].edf",
+    "channels": {
+      "sync_left": null,
+      "sync_right": null
+    }
+  },
+  "scoring": {
+    "sleep_staging": "calif_11955_sleepstaging_FN2_Somnolyzer_06232022.csv",
+    "sleep_staging_separator": ",",
+    "events": {
+      "left": "calif_11955_events_Standard_LeftOnly.csv",
+      "right": "calif_11955_events_Standard_RightOnly.csv",
+      "bilateral": "calif_11955_events_Somnolyzer_balanced.csv"
+    },
+    "valid_lm_labels": {
+      "left": false,
+      "right": true,
+      "bilateral": true
+    }
+  },
+  "metrics": {
+    "start": "2022-02-17T21:56:45",
+    "TRT": 430.2,
+    "TIB": 424.3,
+    "TST": 352.8,
+    "SE": 83.1,
+    "SO": 62.5,
+    "WASO": 9.0,
+    "LMS": 45,
+    "LMSI": 7.7,
+    "LMSA": 2,
+    "PLMS": 0,
+    "PLMSI": 0,
+    "PLMSA": 0,
+    "PLMSAI": 0,
+    "LMA": 25,
+    "LM": 114,
+    "LMI": 15.9,
+    "PLM": 62,
+    "PLMI": 8.6,
+    "PLMA": 13,
+    "PLMAI": 1.8
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "KKI-011",
+  "user_id": "65e62a6dc37d3d0e27690531",
+  "session_id": "84f604aa-9ad6-4583-9733-17195bf55f52",
+  "is_bilateral": false,
+  "is_right_leg_present": false,
+  "is_left_leg_present": false,
+  "resteaze": {
+    "left": {
+      "file": "KKI-011.resteaze.left.csv",
+      "edf_offset_ms": -2280
+    },
+    "right": {
+      "file": "KKI-011.resteaze.right.csv",
+      "edf_offset_ms": 0
+    },
+    "channels": {
+      "sync": "sync"
+    }
+  },
+  "edf": {
+    "timezone": "US/Eastern",
+    "left": "KKI-011.psg.left.edf",
+    "right": "KKI-011.psg.right.edf",
+    "bilateral": "KKI-011.psg.bilateral.edf",
+    "channels": {
+      "sync_left": "Graphical Aux6",
+      "sync_right": "Graphical Aux8"
+    }
+  },
+  "scoring": {
+    "sleep_staging": "KKI-011.sleepstaging.bilateral.csv",
+    "sleep_staging_separator": ",",
+    "events": {
+      "left": "KKI-011.events.left.csv",
+      "right": "KKI-011.events.right.csv",
+      "bilateral": "KKI-011.events.bilateral.csv"
+    }
+  },
+  "metrics": {
+    "start": "2024-05-08T21:45:41-05:00",
+    "TRT": 517.2,
+    "TIB": 504.5,
+    "TST": 466.8,
+    "SE": 92.5,
+    "SO": 6.2,
+    "WASO": 31.5,
+    "LMS": 12,
+    "LMSI": 1.5,
+    "LMSA": 0,
+    "PLMS": 4,
+    "PLMSI": 0.5,
+    "PLMSA": 0,
+    "PLMSAI": 0
+  }
+}
